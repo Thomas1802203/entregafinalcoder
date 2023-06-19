@@ -1,0 +1,278 @@
+[
+    {
+        "id": "campera-1",
+        "titulo": "Campera 1",
+        "imagen": "./img/campera 1.jpg",
+        "categoria":{
+            "nombre": "Camperas",
+            "id":"camperas"
+        },
+        "precio":50000
+
+
+    },
+    {
+        "id": "campera-2",
+        "titulo": "Campera 2",
+        "imagen": "./img/campera 2.jpg",
+        "categoria":{
+            "nombre": "Camperas",
+            "id":"camperas"
+        },
+        "precio":50000
+
+
+    },
+    {
+        "id": "campera-3",
+        "titulo": "Campera 3",
+        "imagen": "./img/campera 3.jpg",
+        "categoria":{
+            "nombre": "Camperas",
+            "id":"camperas"
+        },
+        "precio":50000
+
+
+    },
+    {
+        "id": "campera-4",
+        "titulo": "Campera 4",
+        "imagen": "./img/campera 4.jpg",
+        "categoria":{
+            "nombre": "Camperas",
+            "id":"camperas"
+        },
+        "precio":50000
+
+
+    },
+    {
+        "id": "campera-5",
+        "titulo": "Campera 5",
+        "imagen": "./img/campera 5.jpg",
+        "categoria":{
+            "nombre": "Camperas",
+            "id":"camperas"
+        },
+        "precio":50000
+
+
+    },
+    {
+        "id": "campera-6",
+        "titulo": "Campera 6",
+        "imagen": "./img/campera 6.jpg",
+        "categoria":{
+            "nombre": "Camperas",
+            "id":"camperas"
+        },
+        "precio":50000
+
+
+    },
+    {
+        "id": "campera-7",
+        "titulo": "Campera 7",
+        "imagen": "./img/campera 7.jpg",
+        "categoria":{
+            "nombre": "Camperas",
+            "id":"camperas"
+        },
+        "precio":50000
+
+
+    },
+    {
+        "id": "campera-8",
+        "titulo": "Campera 8",
+        "imagen": "./img/campera 8.jpg",
+        "categoria":{
+            "nombre": "Camperas",
+            "id":"camperas"
+        },
+        "precio":50000
+
+
+    },
+    {
+        "id": "buzo-1",
+        "titulo": "Buzo 1",
+        "imagen": "./img/buzo 1.jpg",
+        "categoria":{
+            "nombre": "Buzos",
+            "id":"buzos"
+        },
+        "precio":18000
+
+
+    },
+    {
+        "id": "buzo-2",
+        "titulo": "Buzo 2",
+        "imagen": "./img/buzo 2.jpg",
+        "categoria":{
+            "nombre": "Buzos",
+            "id":"buzos"
+        },
+        "precio":18000
+
+
+    },
+    {
+        "id": "buzo-3",
+        "titulo": "Buzo 3",
+        "imagen": "./img/buzo 3.jpg",
+        "categoria":{
+            "nombre": "Buzos",
+            "id":"buzos"
+        },
+        "precio":18000
+
+
+    },
+    {
+        "id": "buzo-4",
+        "titulo": "Buzo 4",
+        "imagen": "./img/buzo 4.jpg",
+        "categoria":{
+            "nombre": "Buzos",
+            "id":"buzos"
+        },
+        "precio":18000
+
+
+    },
+    {
+        "id": "buzo-5",
+        "titulo": "Buzo 5",
+        "imagen": "./img/buzo 5.jpg",
+        "categoria":{
+            "nombre": "Buzos",
+            "id":"buzos"
+        },
+        "precio":18000
+
+
+    },
+    {
+        "id": "buzo-6",
+        "titulo": "Buzo 6",
+        "imagen": "./img/buzo 6.jpg",
+        "categoria":{
+            "nombre": "Buzos",
+            "id":"buzos"
+        },
+        "precio":18000
+
+
+    },
+    {
+        "id": "buzo-7",
+        "titulo": "Buzo 7",
+        "imagen": "./img/buzo 7.jpg",
+        "categoria":{
+            "nombre": "Buzos",
+            "id":"buzos"
+        },
+        "precio":18000
+
+
+    },
+    {
+        "id": "remera-1",
+        "titulo": "Remera 1",
+        "imagen": "./img/remera 1.jpg",
+        "categoria":{
+            "nombre": "Remeras",
+            "id":"remeras"
+        },
+        "precio":10000
+
+
+    },
+    {
+        "id": "remera-2",
+        "titulo": "Remera 2",
+        "imagen": "./img/remera 2.jpg",
+        "categoria":{
+            "nombre": "Remeras",
+            "id":"remeras"
+        },
+        "precio":10000
+
+
+    },
+    {
+        "id": "remera-3",
+        "titulo": "Remera 3",
+        "imagen": "./img/remera 3.jpg",
+        "categoria":{
+            "nombre": "Remeras",
+            "id":"remeras"
+        },
+        "precio":10000
+
+
+    },
+    {
+        "id": "remera-4",
+        "titulo": "Remera 4",
+        "imagen": "./img/remera 4.jpg",
+        "categoria":{
+            "nombre": "Remeras",
+            "id":"remeras"
+        },
+        "precio":10000
+
+
+    },
+    {
+        "id": "remera-5",
+        "titulo": "Remera 5",
+        "imagen": "./img/remera 5.jpg",
+        "categoria":{
+            "nombre": "Remeras",
+            "id":"remeras"
+        },
+        "precio":10000
+
+
+    },
+    {
+        "id": "remera-6",
+        "titulo": "Remera 6",
+        "imagen": "./img/remera 6.jpg",
+        "categoria":{
+            "nombre": "Remeras",
+            "id":"remeras"
+        },
+        "precio":10000
+
+
+    },
+    {
+        "id": "remera-7",
+        "titulo": "Remera 7",
+        "imagen": "./img/remera 7.jpg",
+        "categoria":{
+            "nombre": "Remeras",
+            "id":"remeras"
+        },
+        "precio":10000
+
+
+    },
+    {
+        "id": "remera-8",
+        "titulo": "Remera 8",
+        "imagen": "./img/remera 8.jpg",
+        "categoria":{
+            "nombre": "Remeras",
+            "id":"remeras"
+        },
+        "precio":10000
+
+
+    }
+]
